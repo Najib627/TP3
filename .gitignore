@@ -1,0 +1,5 @@
+venv/
+.ipynb_checkpoints/
+__pycache__/
+Big/ieee-fraud-detection/
+Big/submission.csv
